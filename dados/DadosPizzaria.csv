@@ -1,0 +1,9 @@
+﻿Data;Hora;Pedido;Cliente;Produtos;Quantidade;Tamanho;Tipo ;Data de Entrega;Hora Entrega;Valor;Tipo Pagto;Doc Fiscl
+13/06/2020;20:01;1406-120;207;Calabreza e Mussarela;1;Grande;Simples;13/06/2020;20:30;53;Cartão de Crédito;456
+13/06/2020;20:10;1406-121;403;Napolitana;2;Grande;Simples;13/06/2020;20:40;106;Cartão de Crédito;457
+13/06/2020;20:15;1406-122;70;4 Queijos;1;Média;Especial;13/06/2020;20:50;64;Cartão de Crédito;458
+14/06/2020;20:01;1406-120;101;Calabreza e Mussarela;1;Grande;Simples;14/06/2020;20:30;53;Cartão de Crédito;459
+14/06/2020;20:10;1406-121;330;Napolitana;2;Grande;Simples;14/06/2020;20:40;106;Cartão de Crédito;460
+14/06/2020;20:15;1406-122;90;4 Queijos;1;Média;Especial;14/06/2020;20:50;64;Cartão de Crédito;461
+15/06/2020;20:10;1406-121;330;Frutas tropicais;2;Grande;Especial;15/06/2020;20:35;106;Cartão de Débito;462
+15/06/2020;20:15;1406-122;90;5 Queijos;1;Média;Especial;15/06/2020;20:49;80;Cartão de Crédito;463
